@@ -1,0 +1,7 @@
+C:\Users\pablo\OneDrive\Documentos\Coding exercises\C#\C# Intermediate_Classes-Interfaces and OOP\CsharpExercises\Section4InheritanceExercises\bin\Debug\Section4InheritanceExercises.exe.config
+C:\Users\pablo\OneDrive\Documentos\Coding exercises\C#\C# Intermediate_Classes-Interfaces and OOP\CsharpExercises\Section4InheritanceExercises\bin\Debug\Section4InheritanceExercises.exe
+C:\Users\pablo\OneDrive\Documentos\Coding exercises\C#\C# Intermediate_Classes-Interfaces and OOP\CsharpExercises\Section4InheritanceExercises\bin\Debug\Section4InheritanceExercises.pdb
+C:\Users\pablo\OneDrive\Documentos\Coding exercises\C#\C# Intermediate_Classes-Interfaces and OOP\CsharpExercises\Section4InheritanceExercises\obj\Debug\Section4InheritanceExercises.csprojAssemblyReference.cache
+C:\Users\pablo\OneDrive\Documentos\Coding exercises\C#\C# Intermediate_Classes-Interfaces and OOP\CsharpExercises\Section4InheritanceExercises\obj\Debug\Section4InheritanceExercises.csproj.CoreCompileInputs.cache
+C:\Users\pablo\OneDrive\Documentos\Coding exercises\C#\C# Intermediate_Classes-Interfaces and OOP\CsharpExercises\Section4InheritanceExercises\obj\Debug\Section4InheritanceExercises.exe
+C:\Users\pablo\OneDrive\Documentos\Coding exercises\C#\C# Intermediate_Classes-Interfaces and OOP\CsharpExercises\Section4InheritanceExercises\obj\Debug\Section4InheritanceExercises.pdb

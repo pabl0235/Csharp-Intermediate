@@ -1,0 +1,7 @@
+C:\Users\pablo\OneDrive\Documentos\Coding exercises\C#\C# Intermediate_Classes-Interfaces and OOP\CsharpExercises\Section2Exercises\obj\Debug\Section2Exercises.csprojAssemblyReference.cache
+C:\Users\pablo\OneDrive\Documentos\Coding exercises\C#\C# Intermediate_Classes-Interfaces and OOP\CsharpExercises\Section2Exercises\obj\Debug\Section2Exercises.csproj.CoreCompileInputs.cache
+C:\Users\pablo\OneDrive\Documentos\Coding exercises\C#\C# Intermediate_Classes-Interfaces and OOP\CsharpExercises\Section2Exercises\bin\Debug\Section2Exercises.exe.config
+C:\Users\pablo\OneDrive\Documentos\Coding exercises\C#\C# Intermediate_Classes-Interfaces and OOP\CsharpExercises\Section2Exercises\bin\Debug\Section2Exercises.exe
+C:\Users\pablo\OneDrive\Documentos\Coding exercises\C#\C# Intermediate_Classes-Interfaces and OOP\CsharpExercises\Section2Exercises\bin\Debug\Section2Exercises.pdb
+C:\Users\pablo\OneDrive\Documentos\Coding exercises\C#\C# Intermediate_Classes-Interfaces and OOP\CsharpExercises\Section2Exercises\obj\Debug\Section2Exercises.exe
+C:\Users\pablo\OneDrive\Documentos\Coding exercises\C#\C# Intermediate_Classes-Interfaces and OOP\CsharpExercises\Section2Exercises\obj\Debug\Section2Exercises.pdb

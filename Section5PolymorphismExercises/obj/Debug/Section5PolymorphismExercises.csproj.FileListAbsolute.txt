@@ -1,0 +1,7 @@
+C:\Users\pablo\OneDrive\Documentos\Coding exercises\C#\C# Intermediate_Classes-Interfaces and OOP\CsharpExercises\Section5PolymorphismExercises\bin\Debug\Section5PolymorphismExercises.exe.config
+C:\Users\pablo\OneDrive\Documentos\Coding exercises\C#\C# Intermediate_Classes-Interfaces and OOP\CsharpExercises\Section5PolymorphismExercises\bin\Debug\Section5PolymorphismExercises.exe
+C:\Users\pablo\OneDrive\Documentos\Coding exercises\C#\C# Intermediate_Classes-Interfaces and OOP\CsharpExercises\Section5PolymorphismExercises\bin\Debug\Section5PolymorphismExercises.pdb
+C:\Users\pablo\OneDrive\Documentos\Coding exercises\C#\C# Intermediate_Classes-Interfaces and OOP\CsharpExercises\Section5PolymorphismExercises\obj\Debug\Section5PolymorphismExercises.csproj.CoreCompileInputs.cache
+C:\Users\pablo\OneDrive\Documentos\Coding exercises\C#\C# Intermediate_Classes-Interfaces and OOP\CsharpExercises\Section5PolymorphismExercises\obj\Debug\Section5PolymorphismExercises.exe
+C:\Users\pablo\OneDrive\Documentos\Coding exercises\C#\C# Intermediate_Classes-Interfaces and OOP\CsharpExercises\Section5PolymorphismExercises\obj\Debug\Section5PolymorphismExercises.pdb
+C:\Users\pablo\OneDrive\Documentos\Coding exercises\C#\C# Intermediate_Classes-Interfaces and OOP\CsharpExercises\Section5PolymorphismExercises\obj\Debug\Section5PolymorphismExercises.csprojAssemblyReference.cache
